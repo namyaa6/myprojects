@@ -1,4 +1,4 @@
 # myprojects
 first git
 <br>
-author : Namya Jain
+author : Namya Jain (student)
